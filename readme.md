@@ -1,3 +1,3 @@
 ### Rick and Morty
-Jhoan Diaz - 201819861
+Gabriel Beltran - 201921903
 
